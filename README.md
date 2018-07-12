@@ -4,4 +4,4 @@ A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB 1600 ID industr
 
 *****Project Link: https://seelio.com/w/361q/ara-_anthropomorphic-robotic-arm?student=navneet***** 
 
-**Servo_control.ino**: The servo control code for the humanoid arm attached to the ABB IRB1600 industrial robot through Atmel ATmega328 microcontroller (Arduino Uno board) https://www.youtube.com/watch?v=xqaQjo5hS6o&t=12s
+**Servo_control.ino**: The servo control code for the humanoid arm attached to the ABB IRB1600 industrial robot through Atmel ATmega328 microcontroller (Arduino Uno board) *****https://www.youtube.com/watch?v=xqaQjo5hS6o&t=12s*****
