@@ -1,4 +1,6 @@
 #include<Servo.h>  
+//No. of servos == 5 for finger manipulation//
+
 Servo myservo0;
 Servo myservo1;
 Servo myservo2;
