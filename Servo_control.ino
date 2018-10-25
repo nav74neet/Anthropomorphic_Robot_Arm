@@ -1,13 +1,13 @@
 #include<Servo.h>  
 //No. of servos == 5 for finger manipulation//
 
-Servo myservo0;
-Servo myservo1;
-Servo myservo2;
-Servo myservo3;
-Servo myservo4;
+Servo myservo0;//thumb control//
+Servo myservo1;//index finger control//
+Servo myservo2;//middle finger control//
+Servo myservo3;//ring finger control//
+Servo myservo4;//little finger control//
 
-
+//Arduino board-servo connection//
 void setup() 
 {       
   Serial.begin(9600);
